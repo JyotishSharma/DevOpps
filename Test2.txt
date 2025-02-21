@@ -2,5 +2,5 @@ There are three states :
 1] Modified State
 2] Staged State
 3] Commit State 
-
+git pull to update folder / repo
 git status tells you the status of your folder / repo
