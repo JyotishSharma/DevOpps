@@ -1,1 +1,4 @@
-Hello everyone how is the day going ?
+There are three states : 
+1] Modified State
+2] Staged State
+3] Commit State 
